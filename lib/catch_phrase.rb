@@ -1,3 +1,3 @@
-def catch_phrase
+def catch_phrase(phrase = "Scope")
   puts phrase
 end
